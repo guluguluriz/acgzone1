@@ -1,56 +1,74 @@
+<h1 align="center">👋 Hi, I'm <strong>ACG</strong></h1>
 
-
-
-
-### 🚀 Full Stack Developer | React | Node.js | Python | Blockchain Enthusiast  
-
-I’m a passionate full-stack developer with experience building scalable web and mobile applications.  
-I love solving problems using **modern frameworks**, clean architecture, and automated workflows.
+<p align="center">
+  Full-Stack Developer • Backend Engineer • Cloud & DevOps Enthusiast
+</p>
 
 ---
 
-### 🧠 Tech Stack  
+## 🚀 About Me
 
-**Frontend:**  
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,html,css,tailwind,bootstrap,js,ts)](https://skillicons.dev)
+I'm a passionate developer who loves building **scalable applications**, clean APIs, and high-performance backend systems.  
+My focus is on delivering solutions that are **modular**, **efficient**, and **ready for real-world use**.
 
-**Backend:**  
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,django,flask,php,laravel)](https://skillicons.dev)
-
-**Database & Cloud:**  
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,aws,vercel,heroku)](https://skillicons.dev)
-
-**Tools & DevOps:**  
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,postman,linux,bash)](https://skillicons.dev)
+I enjoy learning new technologies, optimizing system performance, and creating tools that make development smoother and faster.
 
 ---
 
-### 📂 Featured Projects  
+## 🧠 Tech Stack
 
-- 🏠 **Fabliztik** – Shopify-based fashion store with automated email marketing.  
-  🔗 [View Repo](https://github.com/RENSOCK) | 🌐 [Live Site](https://fabliztik.com)
+### **Frontend**
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,js,ts,bootstrap,tailwind)](https://skillicons.dev)
 
-- 💊 **Excel Nurs** – Web app for remote nursing assessments with AI and scheduling features.  
-  🔗 [View Repo](#) | 💡 Tech: React, Node.js, MongoDB
+### **Backend**
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,python,django,flask,php,laravel,java,spring)](https://skillicons.dev)
 
-- ⛽ **PetroLink** – On-demand petroleum delivery & vehicle service platform.  
-  🔗 [View Repo](#) | 💡 Tech: React Native, Express.js, PostgreSQL
+### **Database & Cloud**
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,aws,azure,vercel)](https://skillicons.dev)
 
----
-
-### 📈 GitHub Stats  
-
-![Bankole's GitHub stats](https://github-readme-stats.vercel.app/api?username=RENSOCK&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RENSOCK&layout=compact&theme=radical)
+### **DevOps & Tools**
+[![My Skills](https://skillicons.dev/icons?i=docker,githubactions,linux,bash,postman,git)](https://skillicons.dev)
 
 ---
 
-### 🌐 Connect with Me  
+## 📂 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](#)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](#)  
-[![Email](https://img.shields.io/badge/Email-support@fabliztik.com-red)](mailto:#)
+Here are some highlighted repositories (edit or replace with your actual projects):
+
+### 🔹 **Project One**
+A modern web application built with React + Node.js + MongoDB.  
+👉 Repo: https://github.com/acgzone1/project-one
+
+### 🔹 **Project Two**
+Backend microservice handling authentication, payments, or notifications.  
+👉 Repo: https://github.com/acgzone1/project-two
+
+### 🔹 **Project Three**
+A cloud-native system deployed using Docker + CI/CD pipelines.  
+👉 Repo: https://github.com/acgzone1/project-three
 
 ---
-⭐ *“Code is like humor. When you have to explain it, it’s bad.”*
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=acgzone1&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acgzone1&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Connect
+
+Feel free to reach out or collaborate:
+
+- 💼 LinkedIn: *(Add your link here)*  
+- 📧 Email: *(Add your email here)*  
+- 🌍 Portfolio: *(Optional)*
+
+---
+
+⭐ *“Building solutions that scale — one commit at a time.”*
